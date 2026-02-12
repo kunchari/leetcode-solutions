@@ -2,7 +2,7 @@
 
 This repository contains my personal solutions to various LeetCode problems. I use this space to track my progress in algorithms, data structures, and problem-solving techniques.
 
-My ![LeetCode Stats](https://leetcard.jacoblin.cool/kunchari?theme=dark&font=Recursive)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kunchari?theme=dark&font=Recursive)
 
 ### 📊 Progress Tracking
 - **Total Problems Solved:** 0
