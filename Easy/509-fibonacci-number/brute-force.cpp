@@ -1,9 +1,5 @@
-/**
- * Problem: Fibonacci Number (LeetCode #509)
- * Approach: Recursive (Brute Force)
- * * Time Complexity: O(2^n) - Exponential growth due to redundant calculations.
- * Space Complexity: O(n) - Maximum depth of the recursion stack.
- */
+//Time Complexity: O(2^n)
+//Space Complexity: O(n)
 
 class Solution {
 public:
