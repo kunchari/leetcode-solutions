@@ -16,7 +16,7 @@ I implemented several approaches to solve this problem, ranging from naive recur
 ### Detailed Analysis
 
 #### 1. Brute Force (Recursive)
-The simplest but most dangerous method. Due to exponential growth ($O(2^n)$), it's highly susceptible to **Denial of Service (DoS)** if a large $n$ is provided, as it will exhaust CPU resources.
+The simplest but most dangerous method. Due to exponential growth $O(2^n)$, it's highly susceptible to **Denial of Service (DoS)** if a large $n$ is provided, as it will exhaust CPU resources.
 
 #### 2. Memoization
 Significantly faster as it ensures each sub-problem is solved only once. However, it still relies on the **call stack**, which is a limited resource in secure environments.
