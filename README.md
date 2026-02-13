@@ -13,8 +13,5 @@ This repository contains my personal solutions to various LeetCode problems. I u
 - `Medium/`: More complex algorithms.
 - `Hard/`: Advanced optimization and complex data structures.
 
-### 🛠️ Automation
-These solutions are automatically synced using LeetHub.
-
 ---
 *If you find these solutions helpful, feel free to ⭐ the repository!*
