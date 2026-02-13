@@ -2,10 +2,9 @@
 
 This repository contains my personal solutions to various LeetCode problems. I use this space to track my progress in algorithms, data structures, and problem-solving techniques.
 
+### 📊 Progress Tracking
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kunchari?theme=dark&font=Recursive)
 
-### 📊 Progress Tracking
-- **Total Problems Solved:** 7
 - **Primary Language:** С/С++  
 - **Goal:** Solving 1-2 problems daily to improve algorithmic thinking.
 
