@@ -5,7 +5,7 @@ This repository contains my personal solutions to various LeetCode problems. I u
 ### 📊 Progress Tracking
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kunchari?theme=dark&font=Recursive)
 
-- **Primary Language:** С/С++  
+- **Primary Language:** С++/SQL
 - **Goal:** Solving 1-2 problems daily to improve algorithmic thinking.
 
 ### 📂 Folder Structure (primary by LeetCode complicity)
